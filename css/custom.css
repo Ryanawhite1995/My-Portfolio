@@ -1,0 +1,30 @@
+/* your styles go here */
+html {
+  scroll-behavior: smooth;
+}
+button {
+  font-size: 25px;
+  border: solid 2px #fff;
+  background: transparent;
+  color: #fff !important;
+}
+button:hover {
+  border: solid 2px #fff;
+  background: #fff;
+  color: #1f1f1f !important;
+}
+
+.portfolio_button {
+  display: inline-block;
+  margin-top: 5%;
+  margin-left: 15%;
+  font-size: 25px;
+  border: solid 2px rgb(0, 0, 0);
+  background: transparent;
+  color: rgb(0, 0, 0) !important;
+}
+.portfolio_button:hover {
+  border: solid 2px rgb(0, 0, 0);
+  background: rgb(0, 0, 0);
+  color: #ffffff !important;
+}
